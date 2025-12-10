@@ -1,7 +1,7 @@
 
 # Hi there! I'm Shubham Bhardva 👋
 
-Co-founder at **Twisper AI** | B.Tech. in AI & Data Science Student | Research Enthusiast
+Co-founder at **Twisper AI** | B.Tech. in AI & Data Science Student | Researcher 
 
 ---
 
