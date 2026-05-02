@@ -1,7 +1,7 @@
 
 # Hi there! I'm Shubham Bhardva 👋
 
-Co-founder at **Twisper AI** | B.Tech. in AI & Data Science Student | Researcher 
+| B.Tech. in AI & Data Science Student | Researcher 
 
 ---
 
@@ -10,7 +10,6 @@ Co-founder at **Twisper AI** | B.Tech. in AI & Data Science Student | Researcher
 I am a passionate technologist combining academic rigor with entrepreneurial drive. My current focus is on building foundational expertise and translating research concepts into functional AI solutions.
 
 -   🧠 I’m currently focused on **Natural Language Processing (NLP)** and **Deep Learning Architectures**.
--   💡 I am actively working on projects related to our startup, **Twisper AI**.
 -   💻 I enjoy working with **Python**, **PyTorch**, and the **Google Cloud Platform (GCP)**.
 -   🌱 I’m currently learning about **Generative AI** and advanced **Data Engineering** practices.
 -   🤝 I'm open to collaborating on **open-source AI/ML projects** and **research prototypes**.
